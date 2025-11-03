@@ -1,2 +1,2 @@
 # Sonic-The-Big-Adventure
-A nice sonic fan game
+Hope u have fun! ( Make sure to extract the file)
